@@ -19,3 +19,6 @@ Watch this [Youtube Video}(https://www.youtube.com/watch?v=D2_r4q2imnQ)
 - I like codeing
 + I don't like school
 * I am happy
+- [x] Finish my code in time
+- [ ] Go to sleep early
+- [ ] Wake up grateful
