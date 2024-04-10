@@ -12,3 +12,10 @@ Watch this [Youtube Video}(https://www.youtube.com/watch?v=D2_r4q2imnQ)
 [Go back to pictures](#pictures)
 ## **Look at my Code**
 [Command Line](Screeshots/Line.png)
+## ***Lists***
+1. Know how to ball
+2. Know how to game
+3. Be happy in life
+- I like codeing
++ I don't like school
+* I am happy
