@@ -1,4 +1,4 @@
-# Team 7 Weekly Group Meeting
+# Team 7 Weekly Team Meeting
 
 ## Meeting Information
 
